@@ -1,0 +1,3 @@
+[submodule "apps/subApp1"]
+	path = apps/subApp1
+	url = https://stash.turkcell.com.tr/git/scm/ux-fe/nx-microfrontend-sub-app-1.git

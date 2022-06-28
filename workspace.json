@@ -1,0 +1,18 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "auth": "apps/auth",
+    "auth-e2e": "apps/auth-e2e",
+    "common-lib": "libs/common-lib",
+    "shell": "apps/shell",
+    "shell-e2e": "apps/shell-e2e",
+    "sol": "apps/sol",
+    "sol-e2e": "apps/sol-e2e",
+    "sub-app-1": "apps/subApp1/sub-app-1",
+    "sub-app-1-e2e": "apps/subApp1/sub-app-1-e2e",
+    "sub-app-2": "apps/sub-app-2",
+    "sub-app-2-e2e": "apps/sub-app-2-e2e",
+    "ui": "libs/ui"
+  }
+}
